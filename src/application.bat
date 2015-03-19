@@ -1,5 +1,6 @@
-### application.bat - 201x - GREFFIER Romain ###
+### application.bat - 2015 - GREFFIER ROMAIN ###
+version = "2"
+build_hour = "11H00"
 
-echo "version 1.1"
-echo "Build : 10:00"
-echo "Romain GREFFIER - 201x"
+echo "Build ${build_hour}"
+echo "version ${version}"
