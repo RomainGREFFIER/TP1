@@ -1,0 +1,8 @@
+0b8b468 display copyright
+3cd35f6 Add file header
+58124b1 Add build time
+5ba512b add .gitignore
+5907eef add bin
+862948f add src
+36790db add licence
+fb5dec3 add readme
